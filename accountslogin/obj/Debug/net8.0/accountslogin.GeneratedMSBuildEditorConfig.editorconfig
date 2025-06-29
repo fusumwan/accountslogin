@@ -1,0 +1,75 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = accountslogin
+build_property.RootNamespace = accountslogin
+build_property.ProjectDir = C:\WebDevelopment\WorkspaceAspNet\accountslogin\accountslogin\accountslogin\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = true
+build_property.MSBuildProjectDirectory = C:\WebDevelopment\WorkspaceAspNet\accountslogin\accountslogin\accountslogin
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/WebDevelopment/WorkspaceAspNet/accountslogin/accountslogin/accountslogin/src/main/webapp/WEB_INF/views/Accountinfo/AccountinfoContent.cshtml]
+build_metadata.AdditionalFiles.TargetPath = c3JjXG1haW5cd2ViYXBwXFdFQl9JTkZcdmlld3NcQWNjb3VudGluZm9cQWNjb3VudGluZm9Db250ZW50LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/WebDevelopment/WorkspaceAspNet/accountslogin/accountslogin/accountslogin/src/main/webapp/WEB_INF/views/Index/IndexContent.cshtml]
+build_metadata.AdditionalFiles.TargetPath = c3JjXG1haW5cd2ViYXBwXFdFQl9JTkZcdmlld3NcSW5kZXhcSW5kZXhDb250ZW50LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/WebDevelopment/WorkspaceAspNet/accountslogin/accountslogin/accountslogin/src/main/webapp/WEB_INF/views/Login/LoginContent.cshtml]
+build_metadata.AdditionalFiles.TargetPath = c3JjXG1haW5cd2ViYXBwXFdFQl9JTkZcdmlld3NcTG9naW5cTG9naW5Db250ZW50LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/WebDevelopment/WorkspaceAspNet/accountslogin/accountslogin/accountslogin/src/main/webapp/WEB_INF/views/Management/ManagementContent.cshtml]
+build_metadata.AdditionalFiles.TargetPath = c3JjXG1haW5cd2ViYXBwXFdFQl9JTkZcdmlld3NcTWFuYWdlbWVudFxNYW5hZ2VtZW50Q29udGVudC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/WebDevelopment/WorkspaceAspNet/accountslogin/accountslogin/accountslogin/src/main/webapp/WEB_INF/views/Shared/Components/Header/HeaderView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = c3JjXG1haW5cd2ViYXBwXFdFQl9JTkZcdmlld3NcU2hhcmVkXENvbXBvbmVudHNcSGVhZGVyXEhlYWRlclZpZXcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/WebDevelopment/WorkspaceAspNet/accountslogin/accountslogin/accountslogin/src/main/webapp/WEB_INF/views/Shared/Components/Include/IncludeView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = c3JjXG1haW5cd2ViYXBwXFdFQl9JTkZcdmlld3NcU2hhcmVkXENvbXBvbmVudHNcSW5jbHVkZVxJbmNsdWRlVmlldy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/WebDevelopment/WorkspaceAspNet/accountslogin/accountslogin/accountslogin/src/main/webapp/WEB_INF/views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = c3JjXG1haW5cd2ViYXBwXFdFQl9JTkZcdmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/WebDevelopment/WorkspaceAspNet/accountslogin/accountslogin/accountslogin/src/main/webapp/WEB_INF/views/Shared/Footer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = c3JjXG1haW5cd2ViYXBwXFdFQl9JTkZcdmlld3NcU2hhcmVkXEZvb3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/WebDevelopment/WorkspaceAspNet/accountslogin/accountslogin/accountslogin/src/main/webapp/WEB_INF/views/Shared/Home.cshtml]
+build_metadata.AdditionalFiles.TargetPath = c3JjXG1haW5cd2ViYXBwXFdFQl9JTkZcdmlld3NcU2hhcmVkXEhvbWUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/WebDevelopment/WorkspaceAspNet/accountslogin/accountslogin/accountslogin/src/main/webapp/WEB_INF/views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = c3JjXG1haW5cd2ViYXBwXFdFQl9JTkZcdmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/WebDevelopment/WorkspaceAspNet/accountslogin/accountslogin/accountslogin/src/main/webapp/WEB_INF/views/Signup/SignupContent.cshtml]
+build_metadata.AdditionalFiles.TargetPath = c3JjXG1haW5cd2ViYXBwXFdFQl9JTkZcdmlld3NcU2lnbnVwXFNpZ251cENvbnRlbnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/WebDevelopment/WorkspaceAspNet/accountslogin/accountslogin/accountslogin/src/main/webapp/WEB_INF/views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = c3JjXG1haW5cd2ViYXBwXFdFQl9JTkZcdmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/WebDevelopment/WorkspaceAspNet/accountslogin/accountslogin/accountslogin/src/main/webapp/WEB_INF/views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = c3JjXG1haW5cd2ViYXBwXFdFQl9JTkZcdmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/WebDevelopment/WorkspaceAspNet/accountslogin/accountslogin/accountslogin/src/main/webapp/WEB_INF/views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = c3JjXG1haW5cd2ViYXBwXFdFQl9JTkZcdmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-7ssp3o5piw

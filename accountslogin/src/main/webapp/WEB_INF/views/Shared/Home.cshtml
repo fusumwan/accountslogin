@@ -1,0 +1,24 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+    <!-- Load View Component Here -->
+    @await Component.InvokeAsync("Include")
+
+</head>
+<body>
+    <div id="header">
+        <!-- Load View Component Here -->
+        @await Component.InvokeAsync("Header")
+    </div>
+    <div>
+        @RenderBody()
+    </div>
+
+    <div id="footer">
+        <partial name="Footer" />
+    </div>
+</body>
+</html>

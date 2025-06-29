@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\WebDevelopment\\WorkspaceAspNet\\accountslogin\\accountslogin\\accountslogin\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\accountslogin.bundle.scp.css",
+      "PackagePath": "staticwebassets\\accountslogin.bundle.scp.css"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.accountslogin.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.accountslogin.props",
+      "PackagePath": "build\\accountslogin.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.accountslogin.props",
+      "PackagePath": "buildMultiTargeting\\accountslogin.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.accountslogin.props",
+      "PackagePath": "buildTransitive\\accountslogin.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

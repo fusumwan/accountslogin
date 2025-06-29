@@ -1,0 +1,521 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\WebDevelopment\\WorkspaceAspNet\\accountslogin\\accountslogin\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{77110A5E-D06C-4731-92C0-9B5EDEBD3BE5}|accountslogin\\accountslogin.csproj|c:\\webdevelopment\\workspaceaspnet\\accountslogin\\accountslogin\\accountslogin\\sandbox\\jsonconverttest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77110A5E-D06C-4731-92C0-9B5EDEBD3BE5}|accountslogin\\accountslogin.csproj|solutionrelative:accountslogin\\sandbox\\jsonconverttest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77110A5E-D06C-4731-92C0-9B5EDEBD3BE5}|accountslogin\\accountslogin.csproj|c:\\webdevelopment\\workspaceaspnet\\accountslogin\\accountslogin\\accountslogin\\sandbox\\crudtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77110A5E-D06C-4731-92C0-9B5EDEBD3BE5}|accountslogin\\accountslogin.csproj|solutionrelative:accountslogin\\sandbox\\crudtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77110A5E-D06C-4731-92C0-9B5EDEBD3BE5}|accountslogin\\accountslogin.csproj|c:\\webdevelopment\\workspaceaspnet\\accountslogin\\accountslogin\\accountslogin\\src\\main\\aspnet\\com\\sys\\accountslogin\\domain\\utils\\web\\webrequestutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77110A5E-D06C-4731-92C0-9B5EDEBD3BE5}|accountslogin\\accountslogin.csproj|solutionrelative:accountslogin\\src\\main\\aspnet\\com\\sys\\accountslogin\\domain\\utils\\web\\webrequestutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77110A5E-D06C-4731-92C0-9B5EDEBD3BE5}|accountslogin\\accountslogin.csproj|c:\\webdevelopment\\workspaceaspnet\\accountslogin\\accountslogin\\accountslogin\\src\\main\\aspnet\\com\\sys\\accountslogin\\domain\\utils\\web\\webresponseutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77110A5E-D06C-4731-92C0-9B5EDEBD3BE5}|accountslogin\\accountslogin.csproj|solutionrelative:accountslogin\\src\\main\\aspnet\\com\\sys\\accountslogin\\domain\\utils\\web\\webresponseutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77110A5E-D06C-4731-92C0-9B5EDEBD3BE5}|accountslogin\\accountslogin.csproj|c:\\webdevelopment\\workspaceaspnet\\accountslogin\\accountslogin\\accountslogin\\src\\main\\aspnet\\com\\sys\\accountslogin\\infrastructure\\http\\webrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77110A5E-D06C-4731-92C0-9B5EDEBD3BE5}|accountslogin\\accountslogin.csproj|solutionrelative:accountslogin\\src\\main\\aspnet\\com\\sys\\accountslogin\\infrastructure\\http\\webrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77110A5E-D06C-4731-92C0-9B5EDEBD3BE5}|accountslogin\\accountslogin.csproj|c:\\webdevelopment\\workspaceaspnet\\accountslogin\\accountslogin\\accountslogin\\src\\main\\aspnet\\com\\sys\\accountslogin\\domain\\controllers\\accountcontrollerimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77110A5E-D06C-4731-92C0-9B5EDEBD3BE5}|accountslogin\\accountslogin.csproj|solutionrelative:accountslogin\\src\\main\\aspnet\\com\\sys\\accountslogin\\domain\\controllers\\accountcontrollerimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77110A5E-D06C-4731-92C0-9B5EDEBD3BE5}|accountslogin\\accountslogin.csproj|c:\\webdevelopment\\workspaceaspnet\\accountslogin\\accountslogin\\accountslogin\\src\\main\\aspnet\\com\\sys\\accountslogin\\domain\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77110A5E-D06C-4731-92C0-9B5EDEBD3BE5}|accountslogin\\accountslogin.csproj|solutionrelative:accountslogin\\src\\main\\aspnet\\com\\sys\\accountslogin\\domain\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77110A5E-D06C-4731-92C0-9B5EDEBD3BE5}|accountslogin\\accountslogin.csproj|c:\\webdevelopment\\workspaceaspnet\\accountslogin\\accountslogin\\accountslogin\\src\\main\\aspnet\\com\\sys\\accountslogin\\domain\\services\\session\\sessionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77110A5E-D06C-4731-92C0-9B5EDEBD3BE5}|accountslogin\\accountslogin.csproj|solutionrelative:accountslogin\\src\\main\\aspnet\\com\\sys\\accountslogin\\domain\\services\\session\\sessionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77110A5E-D06C-4731-92C0-9B5EDEBD3BE5}|accountslogin\\accountslogin.csproj|c:\\webdevelopment\\workspaceaspnet\\accountslogin\\accountslogin\\accountslogin\\src\\main\\aspnet\\com\\sys\\accountslogin\\infrastructure\\security\\core\\securitycontextholder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77110A5E-D06C-4731-92C0-9B5EDEBD3BE5}|accountslogin\\accountslogin.csproj|solutionrelative:accountslogin\\src\\main\\aspnet\\com\\sys\\accountslogin\\infrastructure\\security\\core\\securitycontextholder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77110A5E-D06C-4731-92C0-9B5EDEBD3BE5}|accountslogin\\accountslogin.csproj|c:\\webdevelopment\\workspaceaspnet\\accountslogin\\accountslogin\\accountslogin\\src\\main\\webapp\\web_inf\\views\\signup\\signupcontent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77110A5E-D06C-4731-92C0-9B5EDEBD3BE5}|accountslogin\\accountslogin.csproj|solutionrelative:accountslogin\\src\\main\\webapp\\web_inf\\views\\signup\\signupcontent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77110A5E-D06C-4731-92C0-9B5EDEBD3BE5}|accountslogin\\accountslogin.csproj|c:\\webdevelopment\\workspaceaspnet\\accountslogin\\accountslogin\\accountslogin\\src\\main\\webapp\\web_inf\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77110A5E-D06C-4731-92C0-9B5EDEBD3BE5}|accountslogin\\accountslogin.csproj|solutionrelative:accountslogin\\src\\main\\webapp\\web_inf\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77110A5E-D06C-4731-92C0-9B5EDEBD3BE5}|accountslogin\\accountslogin.csproj|c:\\webdevelopment\\workspaceaspnet\\accountslogin\\accountslogin\\accountslogin\\src\\main\\aspnet\\com\\sys\\accountslogin\\domain\\controllers\\usersessioncontrollerimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77110A5E-D06C-4731-92C0-9B5EDEBD3BE5}|accountslogin\\accountslogin.csproj|solutionrelative:accountslogin\\src\\main\\aspnet\\com\\sys\\accountslogin\\domain\\controllers\\usersessioncontrollerimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77110A5E-D06C-4731-92C0-9B5EDEBD3BE5}|accountslogin\\accountslogin.csproj|c:\\webdevelopment\\workspaceaspnet\\accountslogin\\accountslogin\\accountslogin\\src\\main\\webapp\\web_inf\\views\\shared\\footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77110A5E-D06C-4731-92C0-9B5EDEBD3BE5}|accountslogin\\accountslogin.csproj|solutionrelative:accountslogin\\src\\main\\webapp\\web_inf\\views\\shared\\footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77110A5E-D06C-4731-92C0-9B5EDEBD3BE5}|accountslogin\\accountslogin.csproj|c:\\webdevelopment\\workspaceaspnet\\accountslogin\\accountslogin\\accountslogin\\src\\main\\webapp\\web_inf\\views\\management\\managementcontent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77110A5E-D06C-4731-92C0-9B5EDEBD3BE5}|accountslogin\\accountslogin.csproj|solutionrelative:accountslogin\\src\\main\\webapp\\web_inf\\views\\management\\managementcontent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77110A5E-D06C-4731-92C0-9B5EDEBD3BE5}|accountslogin\\accountslogin.csproj|c:\\webdevelopment\\workspaceaspnet\\accountslogin\\accountslogin\\accountslogin\\src\\main\\webapp\\web_inf\\views\\accountinfo\\accountinfocontent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77110A5E-D06C-4731-92C0-9B5EDEBD3BE5}|accountslogin\\accountslogin.csproj|solutionrelative:accountslogin\\src\\main\\webapp\\web_inf\\views\\accountinfo\\accountinfocontent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77110A5E-D06C-4731-92C0-9B5EDEBD3BE5}|accountslogin\\accountslogin.csproj|c:\\webdevelopment\\workspaceaspnet\\accountslogin\\accountslogin\\accountslogin\\src\\main\\aspnet\\com\\sys\\accountslogin\\presentation\\viewmodels\\signupviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77110A5E-D06C-4731-92C0-9B5EDEBD3BE5}|accountslogin\\accountslogin.csproj|solutionrelative:accountslogin\\src\\main\\aspnet\\com\\sys\\accountslogin\\presentation\\viewmodels\\signupviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77110A5E-D06C-4731-92C0-9B5EDEBD3BE5}|accountslogin\\accountslogin.csproj|c:\\webdevelopment\\workspaceaspnet\\accountslogin\\accountslogin\\accountslogin\\src\\main\\aspnet\\com\\sys\\accountslogin\\domain\\controllers\\signupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77110A5E-D06C-4731-92C0-9B5EDEBD3BE5}|accountslogin\\accountslogin.csproj|solutionrelative:accountslogin\\src\\main\\aspnet\\com\\sys\\accountslogin\\domain\\controllers\\signupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77110A5E-D06C-4731-92C0-9B5EDEBD3BE5}|accountslogin\\accountslogin.csproj|c:\\webdevelopment\\workspaceaspnet\\accountslogin\\accountslogin\\accountslogin\\src\\main\\aspnet\\com\\sys\\accountslogin\\domain\\controllers\\managementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77110A5E-D06C-4731-92C0-9B5EDEBD3BE5}|accountslogin\\accountslogin.csproj|solutionrelative:accountslogin\\src\\main\\aspnet\\com\\sys\\accountslogin\\domain\\controllers\\managementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77110A5E-D06C-4731-92C0-9B5EDEBD3BE5}|accountslogin\\accountslogin.csproj|c:\\webdevelopment\\workspaceaspnet\\accountslogin\\accountslogin\\accountslogin\\src\\main\\aspnet\\com\\sys\\accountslogin\\domain\\services\\customuserdetailsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77110A5E-D06C-4731-92C0-9B5EDEBD3BE5}|accountslogin\\accountslogin.csproj|solutionrelative:accountslogin\\src\\main\\aspnet\\com\\sys\\accountslogin\\domain\\services\\customuserdetailsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77110A5E-D06C-4731-92C0-9B5EDEBD3BE5}|accountslogin\\accountslogin.csproj|c:\\webdevelopment\\workspaceaspnet\\accountslogin\\accountslogin\\accountslogin\\src\\main\\aspnet\\com\\sys\\accountslogin\\domain\\controllers\\usersessioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77110A5E-D06C-4731-92C0-9B5EDEBD3BE5}|accountslogin\\accountslogin.csproj|solutionrelative:accountslogin\\src\\main\\aspnet\\com\\sys\\accountslogin\\domain\\controllers\\usersessioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77110A5E-D06C-4731-92C0-9B5EDEBD3BE5}|accountslogin\\accountslogin.csproj|c:\\webdevelopment\\workspaceaspnet\\accountslogin\\accountslogin\\accountslogin\\src\\main\\webapp\\web_inf\\views\\login\\logincontent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77110A5E-D06C-4731-92C0-9B5EDEBD3BE5}|accountslogin\\accountslogin.csproj|solutionrelative:accountslogin\\src\\main\\webapp\\web_inf\\views\\login\\logincontent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77110A5E-D06C-4731-92C0-9B5EDEBD3BE5}|accountslogin\\accountslogin.csproj|c:\\webdevelopment\\workspaceaspnet\\accountslogin\\accountslogin\\accountslogin\\src\\main\\aspnet\\com\\sys\\accountslogin\\presentation\\viewmodels\\managementviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77110A5E-D06C-4731-92C0-9B5EDEBD3BE5}|accountslogin\\accountslogin.csproj|solutionrelative:accountslogin\\src\\main\\aspnet\\com\\sys\\accountslogin\\presentation\\viewmodels\\managementviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77110A5E-D06C-4731-92C0-9B5EDEBD3BE5}|accountslogin\\accountslogin.csproj|c:\\webdevelopment\\workspaceaspnet\\accountslogin\\accountslogin\\accountslogin\\src\\main\\resources\\static\\js\\management.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{77110A5E-D06C-4731-92C0-9B5EDEBD3BE5}|accountslogin\\accountslogin.csproj|solutionrelative:accountslogin\\src\\main\\resources\\static\\js\\management.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77110A5E-D06C-4731-92C0-9B5EDEBD3BE5}|accountslogin\\accountslogin.csproj|c:\\webdevelopment\\workspaceaspnet\\accountslogin\\accountslogin\\accountslogin\\src\\main\\aspnet\\com\\sys\\accountslogin\\domain\\controllers\\accountinfocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77110A5E-D06C-4731-92C0-9B5EDEBD3BE5}|accountslogin\\accountslogin.csproj|solutionrelative:accountslogin\\src\\main\\aspnet\\com\\sys\\accountslogin\\domain\\controllers\\accountinfocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77110A5E-D06C-4731-92C0-9B5EDEBD3BE5}|accountslogin\\accountslogin.csproj|c:\\webdevelopment\\workspaceaspnet\\accountslogin\\accountslogin\\accountslogin\\src\\main\\aspnet\\com\\sys\\accountslogin\\infrastructure\\security\\core\\authentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77110A5E-D06C-4731-92C0-9B5EDEBD3BE5}|accountslogin\\accountslogin.csproj|solutionrelative:accountslogin\\src\\main\\aspnet\\com\\sys\\accountslogin\\infrastructure\\security\\core\\authentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77110A5E-D06C-4731-92C0-9B5EDEBD3BE5}|accountslogin\\accountslogin.csproj|c:\\webdevelopment\\workspaceaspnet\\accountslogin\\accountslogin\\accountslogin\\src\\main\\aspnet\\com\\sys\\accountslogin\\infrastructure\\security\\core\\securitycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77110A5E-D06C-4731-92C0-9B5EDEBD3BE5}|accountslogin\\accountslogin.csproj|solutionrelative:accountslogin\\src\\main\\aspnet\\com\\sys\\accountslogin\\infrastructure\\security\\core\\securitycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77110A5E-D06C-4731-92C0-9B5EDEBD3BE5}|accountslogin\\accountslogin.csproj|c:\\webdevelopment\\workspaceaspnet\\accountslogin\\accountslogin\\accountslogin\\src\\main\\aspnet\\com\\sys\\accountslogin\\infrastructure\\logging\\logmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77110A5E-D06C-4731-92C0-9B5EDEBD3BE5}|accountslogin\\accountslogin.csproj|solutionrelative:accountslogin\\src\\main\\aspnet\\com\\sys\\accountslogin\\infrastructure\\logging\\logmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77110A5E-D06C-4731-92C0-9B5EDEBD3BE5}|accountslogin\\accountslogin.csproj|c:\\webdevelopment\\workspaceaspnet\\accountslogin\\accountslogin\\accountslogin\\src\\main\\aspnet\\com\\sys\\accountslogin\\domain\\services\\databasetableserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77110A5E-D06C-4731-92C0-9B5EDEBD3BE5}|accountslogin\\accountslogin.csproj|solutionrelative:accountslogin\\src\\main\\aspnet\\com\\sys\\accountslogin\\domain\\services\\databasetableserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77110A5E-D06C-4731-92C0-9B5EDEBD3BE5}|accountslogin\\accountslogin.csproj|c:\\webdevelopment\\workspaceaspnet\\accountslogin\\accountslogin\\accountslogin\\src\\main\\aspnet\\com\\sys\\accountslogin\\config\\configureservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77110A5E-D06C-4731-92C0-9B5EDEBD3BE5}|accountslogin\\accountslogin.csproj|solutionrelative:accountslogin\\src\\main\\aspnet\\com\\sys\\accountslogin\\config\\configureservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77110A5E-D06C-4731-92C0-9B5EDEBD3BE5}|accountslogin\\accountslogin.csproj|c:\\webdevelopment\\workspaceaspnet\\accountslogin\\accountslogin\\accountslogin\\src\\main\\aspnet\\com\\sys\\accountslogin\\domain\\controllers\\indexcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77110A5E-D06C-4731-92C0-9B5EDEBD3BE5}|accountslogin\\accountslogin.csproj|solutionrelative:accountslogin\\src\\main\\aspnet\\com\\sys\\accountslogin\\domain\\controllers\\indexcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77110A5E-D06C-4731-92C0-9B5EDEBD3BE5}|accountslogin\\accountslogin.csproj|c:\\webdevelopment\\workspaceaspnet\\accountslogin\\accountslogin\\accountslogin\\src\\main\\aspnet\\com\\sys\\accountslogin\\domain\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77110A5E-D06C-4731-92C0-9B5EDEBD3BE5}|accountslogin\\accountslogin.csproj|solutionrelative:accountslogin\\src\\main\\aspnet\\com\\sys\\accountslogin\\domain\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WebRequestUtil.cs",
+              "DocumentMoniker": "C:\\WebDevelopment\\WorkspaceAspNet\\accountslogin\\accountslogin\\accountslogin\\src\\main\\aspnet\\com\\sys\\accountslogin\\domain\\utils\\web\\WebRequestUtil.cs",
+              "RelativeDocumentMoniker": "accountslogin\\src\\main\\aspnet\\com\\sys\\accountslogin\\domain\\utils\\web\\WebRequestUtil.cs",
+              "ToolTip": "C:\\WebDevelopment\\WorkspaceAspNet\\accountslogin\\accountslogin\\accountslogin\\src\\main\\aspnet\\com\\sys\\accountslogin\\domain\\utils\\web\\WebRequestUtil.cs",
+              "RelativeToolTip": "accountslogin\\src\\main\\aspnet\\com\\sys\\accountslogin\\domain\\utils\\web\\WebRequestUtil.cs",
+              "ViewState": "AQIAAFsAAAAAAAAAAAAAALoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T07:28:35.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WebRequest.cs",
+              "DocumentMoniker": "C:\\WebDevelopment\\WorkspaceAspNet\\accountslogin\\accountslogin\\accountslogin\\src\\main\\aspnet\\com\\sys\\accountslogin\\infrastructure\\http\\WebRequest.cs",
+              "RelativeDocumentMoniker": "accountslogin\\src\\main\\aspnet\\com\\sys\\accountslogin\\infrastructure\\http\\WebRequest.cs",
+              "ToolTip": "C:\\WebDevelopment\\WorkspaceAspNet\\accountslogin\\accountslogin\\accountslogin\\src\\main\\aspnet\\com\\sys\\accountslogin\\infrastructure\\http\\WebRequest.cs",
+              "RelativeToolTip": "accountslogin\\src\\main\\aspnet\\com\\sys\\accountslogin\\infrastructure\\http\\WebRequest.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T07:28:20.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\WebDevelopment\\WorkspaceAspNet\\accountslogin\\accountslogin\\accountslogin\\src\\main\\aspnet\\com\\sys\\accountslogin\\domain\\controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "accountslogin\\src\\main\\aspnet\\com\\sys\\accountslogin\\domain\\controllers\\LoginController.cs",
+              "ToolTip": "C:\\WebDevelopment\\WorkspaceAspNet\\accountslogin\\accountslogin\\accountslogin\\src\\main\\aspnet\\com\\sys\\accountslogin\\domain\\controllers\\LoginController.cs",
+              "RelativeToolTip": "accountslogin\\src\\main\\aspnet\\com\\sys\\accountslogin\\domain\\controllers\\LoginController.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAAwEwAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T07:53:31.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\WebDevelopment\\WorkspaceAspNet\\accountslogin\\accountslogin\\accountslogin\\src\\main\\webapp\\WEB_INF\\views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "accountslogin\\src\\main\\webapp\\WEB_INF\\views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\WebDevelopment\\WorkspaceAspNet\\accountslogin\\accountslogin\\accountslogin\\src\\main\\webapp\\WEB_INF\\views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "accountslogin\\src\\main\\webapp\\WEB_INF\\views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAC8AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-25T07:52:33.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "JsonConvertTest.cs",
+              "DocumentMoniker": "C:\\WebDevelopment\\WorkspaceAspNet\\accountslogin\\accountslogin\\accountslogin\\sandbox\\JsonConvertTest.cs",
+              "RelativeDocumentMoniker": "accountslogin\\sandbox\\JsonConvertTest.cs",
+              "ToolTip": "C:\\WebDevelopment\\WorkspaceAspNet\\accountslogin\\accountslogin\\accountslogin\\sandbox\\JsonConvertTest.cs",
+              "RelativeToolTip": "accountslogin\\sandbox\\JsonConvertTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T10:49:05.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "crudtest.cs",
+              "DocumentMoniker": "C:\\WebDevelopment\\WorkspaceAspNet\\accountslogin\\accountslogin\\accountslogin\\sandbox\\crudtest.cs",
+              "RelativeDocumentMoniker": "accountslogin\\sandbox\\crudtest.cs",
+              "ToolTip": "C:\\WebDevelopment\\WorkspaceAspNet\\accountslogin\\accountslogin\\accountslogin\\sandbox\\crudtest.cs",
+              "RelativeToolTip": "accountslogin\\sandbox\\crudtest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T04:34:02.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WebResponseUtil.cs",
+              "DocumentMoniker": "C:\\WebDevelopment\\WorkspaceAspNet\\accountslogin\\accountslogin\\accountslogin\\src\\main\\aspnet\\com\\sys\\accountslogin\\domain\\utils\\web\\WebResponseUtil.cs",
+              "RelativeDocumentMoniker": "accountslogin\\src\\main\\aspnet\\com\\sys\\accountslogin\\domain\\utils\\web\\WebResponseUtil.cs",
+              "ToolTip": "C:\\WebDevelopment\\WorkspaceAspNet\\accountslogin\\accountslogin\\accountslogin\\src\\main\\aspnet\\com\\sys\\accountslogin\\domain\\utils\\web\\WebResponseUtil.cs",
+              "RelativeToolTip": "accountslogin\\src\\main\\aspnet\\com\\sys\\accountslogin\\domain\\utils\\web\\WebResponseUtil.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T07:28:31.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SignupContent.cshtml",
+              "DocumentMoniker": "C:\\WebDevelopment\\WorkspaceAspNet\\accountslogin\\accountslogin\\accountslogin\\src\\main\\webapp\\WEB_INF\\views\\Signup\\SignupContent.cshtml",
+              "RelativeDocumentMoniker": "accountslogin\\src\\main\\webapp\\WEB_INF\\views\\Signup\\SignupContent.cshtml",
+              "ToolTip": "C:\\WebDevelopment\\WorkspaceAspNet\\accountslogin\\accountslogin\\accountslogin\\src\\main\\webapp\\WEB_INF\\views\\Signup\\SignupContent.cshtml",
+              "RelativeToolTip": "accountslogin\\src\\main\\webapp\\WEB_INF\\views\\Signup\\SignupContent.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-25T07:46:32.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AccountControllerImpl.cs",
+              "DocumentMoniker": "C:\\WebDevelopment\\WorkspaceAspNet\\accountslogin\\accountslogin\\accountslogin\\src\\main\\aspnet\\com\\sys\\accountslogin\\domain\\controllers\\AccountControllerImpl.cs",
+              "RelativeDocumentMoniker": "accountslogin\\src\\main\\aspnet\\com\\sys\\accountslogin\\domain\\controllers\\AccountControllerImpl.cs",
+              "ToolTip": "C:\\WebDevelopment\\WorkspaceAspNet\\accountslogin\\accountslogin\\accountslogin\\src\\main\\aspnet\\com\\sys\\accountslogin\\domain\\controllers\\AccountControllerImpl.cs",
+              "RelativeToolTip": "accountslogin\\src\\main\\aspnet\\com\\sys\\accountslogin\\domain\\controllers\\AccountControllerImpl.cs",
+              "ViewState": "AQIAAJMAAAAAAAAAAAAAAJ0AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T06:23:35.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SecurityContextHolder.cs",
+              "DocumentMoniker": "C:\\WebDevelopment\\WorkspaceAspNet\\accountslogin\\accountslogin\\accountslogin\\src\\main\\aspnet\\com\\sys\\accountslogin\\infrastructure\\security\\core\\SecurityContextHolder.cs",
+              "RelativeDocumentMoniker": "accountslogin\\src\\main\\aspnet\\com\\sys\\accountslogin\\infrastructure\\security\\core\\SecurityContextHolder.cs",
+              "ToolTip": "C:\\WebDevelopment\\WorkspaceAspNet\\accountslogin\\accountslogin\\accountslogin\\src\\main\\aspnet\\com\\sys\\accountslogin\\infrastructure\\security\\core\\SecurityContextHolder.cs",
+              "RelativeToolTip": "accountslogin\\src\\main\\aspnet\\com\\sys\\accountslogin\\infrastructure\\security\\core\\SecurityContextHolder.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAWwDYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T08:06:03.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SessionManager.cs",
+              "DocumentMoniker": "C:\\WebDevelopment\\WorkspaceAspNet\\accountslogin\\accountslogin\\accountslogin\\src\\main\\aspnet\\com\\sys\\accountslogin\\domain\\services\\session\\SessionManager.cs",
+              "RelativeDocumentMoniker": "accountslogin\\src\\main\\aspnet\\com\\sys\\accountslogin\\domain\\services\\session\\SessionManager.cs",
+              "ToolTip": "C:\\WebDevelopment\\WorkspaceAspNet\\accountslogin\\accountslogin\\accountslogin\\src\\main\\aspnet\\com\\sys\\accountslogin\\domain\\services\\session\\SessionManager.cs",
+              "RelativeToolTip": "accountslogin\\src\\main\\aspnet\\com\\sys\\accountslogin\\domain\\services\\session\\SessionManager.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAAwFMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T08:07:17.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserSessionControllerImpl.cs",
+              "DocumentMoniker": "C:\\WebDevelopment\\WorkspaceAspNet\\accountslogin\\accountslogin\\accountslogin\\src\\main\\aspnet\\com\\sys\\accountslogin\\domain\\controllers\\UserSessionControllerImpl.cs",
+              "RelativeDocumentMoniker": "accountslogin\\src\\main\\aspnet\\com\\sys\\accountslogin\\domain\\controllers\\UserSessionControllerImpl.cs",
+              "ToolTip": "C:\\WebDevelopment\\WorkspaceAspNet\\accountslogin\\accountslogin\\accountslogin\\src\\main\\aspnet\\com\\sys\\accountslogin\\domain\\controllers\\UserSessionControllerImpl.cs",
+              "RelativeToolTip": "accountslogin\\src\\main\\aspnet\\com\\sys\\accountslogin\\domain\\controllers\\UserSessionControllerImpl.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAowGsAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T07:49:19.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SignupViewModel.cs",
+              "DocumentMoniker": "C:\\WebDevelopment\\WorkspaceAspNet\\accountslogin\\accountslogin\\accountslogin\\src\\main\\aspnet\\com\\sys\\accountslogin\\presentation\\viewmodels\\SignupViewModel.cs",
+              "RelativeDocumentMoniker": "accountslogin\\src\\main\\aspnet\\com\\sys\\accountslogin\\presentation\\viewmodels\\SignupViewModel.cs",
+              "ToolTip": "C:\\WebDevelopment\\WorkspaceAspNet\\accountslogin\\accountslogin\\accountslogin\\src\\main\\aspnet\\com\\sys\\accountslogin\\presentation\\viewmodels\\SignupViewModel.cs",
+              "RelativeToolTip": "accountslogin\\src\\main\\aspnet\\com\\sys\\accountslogin\\presentation\\viewmodels\\SignupViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T07:48:08.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Footer.cshtml",
+              "DocumentMoniker": "C:\\WebDevelopment\\WorkspaceAspNet\\accountslogin\\accountslogin\\accountslogin\\src\\main\\webapp\\WEB_INF\\views\\Shared\\Footer.cshtml",
+              "RelativeDocumentMoniker": "accountslogin\\src\\main\\webapp\\WEB_INF\\views\\Shared\\Footer.cshtml",
+              "ToolTip": "C:\\WebDevelopment\\WorkspaceAspNet\\accountslogin\\accountslogin\\accountslogin\\src\\main\\webapp\\WEB_INF\\views\\Shared\\Footer.cshtml",
+              "RelativeToolTip": "accountslogin\\src\\main\\webapp\\WEB_INF\\views\\Shared\\Footer.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-25T07:52:31.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ManagementContent.cshtml",
+              "DocumentMoniker": "C:\\WebDevelopment\\WorkspaceAspNet\\accountslogin\\accountslogin\\accountslogin\\src\\main\\webapp\\WEB_INF\\views\\Management\\ManagementContent.cshtml",
+              "RelativeDocumentMoniker": "accountslogin\\src\\main\\webapp\\WEB_INF\\views\\Management\\ManagementContent.cshtml",
+              "ToolTip": "C:\\WebDevelopment\\WorkspaceAspNet\\accountslogin\\accountslogin\\accountslogin\\src\\main\\webapp\\WEB_INF\\views\\Management\\ManagementContent.cshtml",
+              "RelativeToolTip": "accountslogin\\src\\main\\webapp\\WEB_INF\\views\\Management\\ManagementContent.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-25T06:58:27.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AccountinfoContent.cshtml",
+              "DocumentMoniker": "C:\\WebDevelopment\\WorkspaceAspNet\\accountslogin\\accountslogin\\accountslogin\\src\\main\\webapp\\WEB_INF\\views\\Accountinfo\\AccountinfoContent.cshtml",
+              "RelativeDocumentMoniker": "accountslogin\\src\\main\\webapp\\WEB_INF\\views\\Accountinfo\\AccountinfoContent.cshtml",
+              "ToolTip": "C:\\WebDevelopment\\WorkspaceAspNet\\accountslogin\\accountslogin\\accountslogin\\src\\main\\webapp\\WEB_INF\\views\\Accountinfo\\AccountinfoContent.cshtml",
+              "RelativeToolTip": "accountslogin\\src\\main\\webapp\\WEB_INF\\views\\Accountinfo\\AccountinfoContent.cshtml",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAAAFIAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-25T06:25:23.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SignupController.cs",
+              "DocumentMoniker": "C:\\WebDevelopment\\WorkspaceAspNet\\accountslogin\\accountslogin\\accountslogin\\src\\main\\aspnet\\com\\sys\\accountslogin\\domain\\controllers\\SignupController.cs",
+              "RelativeDocumentMoniker": "accountslogin\\src\\main\\aspnet\\com\\sys\\accountslogin\\domain\\controllers\\SignupController.cs",
+              "ToolTip": "C:\\WebDevelopment\\WorkspaceAspNet\\accountslogin\\accountslogin\\accountslogin\\src\\main\\aspnet\\com\\sys\\accountslogin\\domain\\controllers\\SignupController.cs",
+              "RelativeToolTip": "accountslogin\\src\\main\\aspnet\\com\\sys\\accountslogin\\domain\\controllers\\SignupController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T07:46:55.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ManagementController.cs",
+              "DocumentMoniker": "C:\\WebDevelopment\\WorkspaceAspNet\\accountslogin\\accountslogin\\accountslogin\\src\\main\\aspnet\\com\\sys\\accountslogin\\domain\\controllers\\ManagementController.cs",
+              "RelativeDocumentMoniker": "accountslogin\\src\\main\\aspnet\\com\\sys\\accountslogin\\domain\\controllers\\ManagementController.cs",
+              "ToolTip": "C:\\WebDevelopment\\WorkspaceAspNet\\accountslogin\\accountslogin\\accountslogin\\src\\main\\aspnet\\com\\sys\\accountslogin\\domain\\controllers\\ManagementController.cs",
+              "RelativeToolTip": "accountslogin\\src\\main\\aspnet\\com\\sys\\accountslogin\\domain\\controllers\\ManagementController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T06:39:11.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CustomUserDetailsService.cs",
+              "DocumentMoniker": "C:\\WebDevelopment\\WorkspaceAspNet\\accountslogin\\accountslogin\\accountslogin\\src\\main\\aspnet\\com\\sys\\accountslogin\\domain\\services\\CustomUserDetailsService.cs",
+              "RelativeDocumentMoniker": "accountslogin\\src\\main\\aspnet\\com\\sys\\accountslogin\\domain\\services\\CustomUserDetailsService.cs",
+              "ToolTip": "C:\\WebDevelopment\\WorkspaceAspNet\\accountslogin\\accountslogin\\accountslogin\\src\\main\\aspnet\\com\\sys\\accountslogin\\domain\\services\\CustomUserDetailsService.cs",
+              "RelativeToolTip": "accountslogin\\src\\main\\aspnet\\com\\sys\\accountslogin\\domain\\services\\CustomUserDetailsService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T06:23:53.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UserSessionController.cs",
+              "DocumentMoniker": "C:\\WebDevelopment\\WorkspaceAspNet\\accountslogin\\accountslogin\\accountslogin\\src\\main\\aspnet\\com\\sys\\accountslogin\\domain\\controllers\\UserSessionController.cs",
+              "RelativeDocumentMoniker": "accountslogin\\src\\main\\aspnet\\com\\sys\\accountslogin\\domain\\controllers\\UserSessionController.cs",
+              "ToolTip": "C:\\WebDevelopment\\WorkspaceAspNet\\accountslogin\\accountslogin\\accountslogin\\src\\main\\aspnet\\com\\sys\\accountslogin\\domain\\controllers\\UserSessionController.cs",
+              "RelativeToolTip": "accountslogin\\src\\main\\aspnet\\com\\sys\\accountslogin\\domain\\controllers\\UserSessionController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T07:13:17.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "LoginContent.cshtml",
+              "DocumentMoniker": "C:\\WebDevelopment\\WorkspaceAspNet\\accountslogin\\accountslogin\\accountslogin\\src\\main\\webapp\\WEB_INF\\views\\Login\\LoginContent.cshtml",
+              "RelativeDocumentMoniker": "accountslogin\\src\\main\\webapp\\WEB_INF\\views\\Login\\LoginContent.cshtml",
+              "ToolTip": "C:\\WebDevelopment\\WorkspaceAspNet\\accountslogin\\accountslogin\\accountslogin\\src\\main\\webapp\\WEB_INF\\views\\Login\\LoginContent.cshtml",
+              "RelativeToolTip": "accountslogin\\src\\main\\webapp\\WEB_INF\\views\\Login\\LoginContent.cshtml",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-25T07:06:22.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ManagementViewModel.cs",
+              "DocumentMoniker": "C:\\WebDevelopment\\WorkspaceAspNet\\accountslogin\\accountslogin\\accountslogin\\src\\main\\aspnet\\com\\sys\\accountslogin\\presentation\\viewmodels\\ManagementViewModel.cs",
+              "RelativeDocumentMoniker": "accountslogin\\src\\main\\aspnet\\com\\sys\\accountslogin\\presentation\\viewmodels\\ManagementViewModel.cs",
+              "ToolTip": "C:\\WebDevelopment\\WorkspaceAspNet\\accountslogin\\accountslogin\\accountslogin\\src\\main\\aspnet\\com\\sys\\accountslogin\\presentation\\viewmodels\\ManagementViewModel.cs",
+              "RelativeToolTip": "accountslogin\\src\\main\\aspnet\\com\\sys\\accountslogin\\presentation\\viewmodels\\ManagementViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T06:59:29.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "management.js",
+              "DocumentMoniker": "C:\\WebDevelopment\\WorkspaceAspNet\\accountslogin\\accountslogin\\accountslogin\\src\\main\\resources\\static\\js\\management.js",
+              "RelativeDocumentMoniker": "accountslogin\\src\\main\\resources\\static\\js\\management.js",
+              "ToolTip": "C:\\WebDevelopment\\WorkspaceAspNet\\accountslogin\\accountslogin\\accountslogin\\src\\main\\resources\\static\\js\\management.js",
+              "RelativeToolTip": "accountslogin\\src\\main\\resources\\static\\js\\management.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-04-25T06:59:02.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "SecurityContext.cs",
+              "DocumentMoniker": "C:\\WebDevelopment\\WorkspaceAspNet\\accountslogin\\accountslogin\\accountslogin\\src\\main\\aspnet\\com\\sys\\accountslogin\\infrastructure\\security\\core\\SecurityContext.cs",
+              "RelativeDocumentMoniker": "accountslogin\\src\\main\\aspnet\\com\\sys\\accountslogin\\infrastructure\\security\\core\\SecurityContext.cs",
+              "ToolTip": "C:\\WebDevelopment\\WorkspaceAspNet\\accountslogin\\accountslogin\\accountslogin\\src\\main\\aspnet\\com\\sys\\accountslogin\\infrastructure\\security\\core\\SecurityContext.cs",
+              "RelativeToolTip": "accountslogin\\src\\main\\aspnet\\com\\sys\\accountslogin\\infrastructure\\security\\core\\SecurityContext.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAWwEIAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T10:52:13.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ConfigureServices.cs",
+              "DocumentMoniker": "C:\\WebDevelopment\\WorkspaceAspNet\\accountslogin\\accountslogin\\accountslogin\\src\\main\\aspnet\\com\\sys\\accountslogin\\config\\ConfigureServices.cs",
+              "RelativeDocumentMoniker": "accountslogin\\src\\main\\aspnet\\com\\sys\\accountslogin\\config\\ConfigureServices.cs",
+              "ToolTip": "C:\\WebDevelopment\\WorkspaceAspNet\\accountslogin\\accountslogin\\accountslogin\\src\\main\\aspnet\\com\\sys\\accountslogin\\config\\ConfigureServices.cs",
+              "RelativeToolTip": "accountslogin\\src\\main\\aspnet\\com\\sys\\accountslogin\\config\\ConfigureServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T06:23:49.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AccountinfoController.cs",
+              "DocumentMoniker": "C:\\WebDevelopment\\WorkspaceAspNet\\accountslogin\\accountslogin\\accountslogin\\src\\main\\aspnet\\com\\sys\\accountslogin\\domain\\controllers\\AccountinfoController.cs",
+              "RelativeDocumentMoniker": "accountslogin\\src\\main\\aspnet\\com\\sys\\accountslogin\\domain\\controllers\\AccountinfoController.cs",
+              "ToolTip": "C:\\WebDevelopment\\WorkspaceAspNet\\accountslogin\\accountslogin\\accountslogin\\src\\main\\aspnet\\com\\sys\\accountslogin\\domain\\controllers\\AccountinfoController.cs",
+              "RelativeToolTip": "accountslogin\\src\\main\\aspnet\\com\\sys\\accountslogin\\domain\\controllers\\AccountinfoController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T06:23:32.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Authentication.cs",
+              "DocumentMoniker": "C:\\WebDevelopment\\WorkspaceAspNet\\accountslogin\\accountslogin\\accountslogin\\src\\main\\aspnet\\com\\sys\\accountslogin\\infrastructure\\security\\core\\Authentication.cs",
+              "RelativeDocumentMoniker": "accountslogin\\src\\main\\aspnet\\com\\sys\\accountslogin\\infrastructure\\security\\core\\Authentication.cs",
+              "ToolTip": "C:\\WebDevelopment\\WorkspaceAspNet\\accountslogin\\accountslogin\\accountslogin\\src\\main\\aspnet\\com\\sys\\accountslogin\\infrastructure\\security\\core\\Authentication.cs",
+              "RelativeToolTip": "accountslogin\\src\\main\\aspnet\\com\\sys\\accountslogin\\infrastructure\\security\\core\\Authentication.cs",
+              "ViewState": "AQIAAGkAAAAAAAAAAAAWwH0AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T06:27:54.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "DatabaseTableServiceImpl.cs",
+              "DocumentMoniker": "C:\\WebDevelopment\\WorkspaceAspNet\\accountslogin\\accountslogin\\accountslogin\\src\\main\\aspnet\\com\\sys\\accountslogin\\domain\\services\\DatabaseTableServiceImpl.cs",
+              "RelativeDocumentMoniker": "accountslogin\\src\\main\\aspnet\\com\\sys\\accountslogin\\domain\\services\\DatabaseTableServiceImpl.cs",
+              "ToolTip": "C:\\WebDevelopment\\WorkspaceAspNet\\accountslogin\\accountslogin\\accountslogin\\src\\main\\aspnet\\com\\sys\\accountslogin\\domain\\services\\DatabaseTableServiceImpl.cs",
+              "RelativeToolTip": "accountslogin\\src\\main\\aspnet\\com\\sys\\accountslogin\\domain\\services\\DatabaseTableServiceImpl.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T06:23:55.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "LogManager.cs",
+              "DocumentMoniker": "C:\\WebDevelopment\\WorkspaceAspNet\\accountslogin\\accountslogin\\accountslogin\\src\\main\\aspnet\\com\\sys\\accountslogin\\infrastructure\\logging\\LogManager.cs",
+              "RelativeDocumentMoniker": "accountslogin\\src\\main\\aspnet\\com\\sys\\accountslogin\\infrastructure\\logging\\LogManager.cs",
+              "ToolTip": "C:\\WebDevelopment\\WorkspaceAspNet\\accountslogin\\accountslogin\\accountslogin\\src\\main\\aspnet\\com\\sys\\accountslogin\\infrastructure\\logging\\LogManager.cs",
+              "RelativeToolTip": "accountslogin\\src\\main\\aspnet\\com\\sys\\accountslogin\\infrastructure\\logging\\LogManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T06:24:29.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "IndexController.cs",
+              "DocumentMoniker": "C:\\WebDevelopment\\WorkspaceAspNet\\accountslogin\\accountslogin\\accountslogin\\src\\main\\aspnet\\com\\sys\\accountslogin\\domain\\controllers\\IndexController.cs",
+              "RelativeDocumentMoniker": "accountslogin\\src\\main\\aspnet\\com\\sys\\accountslogin\\domain\\controllers\\IndexController.cs",
+              "ToolTip": "C:\\WebDevelopment\\WorkspaceAspNet\\accountslogin\\accountslogin\\accountslogin\\src\\main\\aspnet\\com\\sys\\accountslogin\\domain\\controllers\\IndexController.cs",
+              "RelativeToolTip": "accountslogin\\src\\main\\aspnet\\com\\sys\\accountslogin\\domain\\controllers\\IndexController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T06:23:45.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\WebDevelopment\\WorkspaceAspNet\\accountslogin\\accountslogin\\accountslogin\\src\\main\\aspnet\\com\\sys\\accountslogin\\domain\\controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "accountslogin\\src\\main\\aspnet\\com\\sys\\accountslogin\\domain\\controllers\\AccountController.cs",
+              "ToolTip": "C:\\WebDevelopment\\WorkspaceAspNet\\accountslogin\\accountslogin\\accountslogin\\src\\main\\aspnet\\com\\sys\\accountslogin\\domain\\controllers\\AccountController.cs",
+              "RelativeToolTip": "accountslogin\\src\\main\\aspnet\\com\\sys\\accountslogin\\domain\\controllers\\AccountController.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABIAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T06:23:38.633Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

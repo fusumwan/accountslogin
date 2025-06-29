@@ -1,0 +1,49 @@
+﻿@model accountslogin.src.main.aspnet.com.sys.accountslogin.presentation.viewmodels.ManagementViewModel
+
+@{
+    ViewData["Title"] = "Management Page";
+    ViewData["Title"] = "";
+}
+<h1>@ViewData["Title"]</h1>
+@* Include your own JavaScript and CSS as required *@
+<link href="@Url.Content("~/css/management.css")" rel="stylesheet" />
+<script src="@Url.Content("~/js/app.controllers.ui.management.js")"></script>
+<script src="@Url.Content("~/js/management.js")"></script>
+<div class="contrary">
+    <div class="container">
+        <div class="col col1">
+        </div>
+        <div class="col col2">
+            <h1 class="page-title-header">Manage Account Page</h1>
+        </div>
+        <div class="col col3">
+        </div>
+    </div>
+</div>
+
+<div class="contrary">
+    <div class="container">
+        <div class="col col1">
+        </div>
+        <div class="col col2">
+            <div id="accountGridViewContainer"></div>
+        </div>
+        <div class="col col3">
+        </div>
+    </div>
+</div>
+
+<div class="contrary">
+    <div class="container">
+        <div class="col col1">
+        </div>
+        <div class="col col2">
+            <hr>
+            <p class="normal-font">Didn't register an account with this website?</p>
+            <!-- Updated dynamic URL -->
+            <p class="normal-font"><a href="signup.html">Sign up</a></p>
+        </div>
+        <div class="col col3">
+        </div>
+    </div>
+</div>

@@ -1,0 +1,50 @@
+{
+  "Version": 1,
+  "Hash": "f6AJ6bW/LKqvN5lRJTxhuRqQa1Ij6EaeXaG/k1qR+aU=",
+  "Source": "accountslogin",
+  "BasePath": "_content/accountslogin",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [
+    {
+      "Identity": "C:\\WebDevelopment\\WorkspaceAspNet\\accountslogin\\accountslogin\\accountslogin\\obj\\Debug\\net8.0\\scopedcss\\bundle\\accountslogin.styles.css",
+      "SourceId": "accountslogin",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\WebDevelopment\\WorkspaceAspNet\\accountslogin\\accountslogin\\accountslogin\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/accountslogin",
+      "RelativePath": "accountslogin.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\WebDevelopment\\WorkspaceAspNet\\accountslogin\\accountslogin\\accountslogin\\obj\\Debug\\net8.0\\scopedcss\\bundle\\accountslogin.styles.css"
+    },
+    {
+      "Identity": "C:\\WebDevelopment\\WorkspaceAspNet\\accountslogin\\accountslogin\\accountslogin\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\accountslogin.bundle.scp.css",
+      "SourceId": "accountslogin",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\WebDevelopment\\WorkspaceAspNet\\accountslogin\\accountslogin\\accountslogin\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/accountslogin",
+      "RelativePath": "accountslogin.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\WebDevelopment\\WorkspaceAspNet\\accountslogin\\accountslogin\\accountslogin\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\accountslogin.bundle.scp.css"
+    }
+  ]
+}

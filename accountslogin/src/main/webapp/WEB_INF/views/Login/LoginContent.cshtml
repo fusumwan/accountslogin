@@ -1,0 +1,72 @@
+﻿@model accountslogin.src.main.aspnet.com.sys.accountslogin.presentation.viewmodels.LoginViewModel
+@{
+    ViewData["Title"] = "Login";
+}
+@* Include your own JavaScript and CSS as required *@
+<link href="@Url.Content("~/css/login.css")" rel="stylesheet" />
+<script src="@Url.Content("~/js/login.js")"></script>
+<div class="contrary">
+    <div class="container">
+        <div class="col col1">
+        </div>
+        <div class="col col2">
+            <h1 class="page-title-header">Log In</h1>
+        </div>
+        <div class="col col3">
+        </div>
+    </div>
+</div>
+
+<div class="contrary">
+    <div class="container">
+        <div class="col col1">
+        </div>
+        <div class="col col2">
+            @if (!ViewData.ModelState.IsValid)
+            {
+                <div class="text-danger">Failed to login. Please check your credentials.</div>
+            }
+
+            
+            <form method="post" action="">
+                @Html.AntiForgeryToken()
+                <div>
+                    <p><label class="form-label" for="username"><b>User name</b></label></p>
+                    <input id="username_txt" name="username" class="form-input margin-bottom" placeholder="Username" type="text" value="">
+                </div>
+
+                <div>
+                    <p><label class="form-label" for="password"><b>Password</b></label></p>
+                    <input id="password_txt" name="password" class="form-input margin-bottom" placeholder="Password" type="password" value="">
+                </div>
+
+                <div>
+                    <label>
+                        <input id="rememberme" type="checkbox" name="rememberme" style="margin-bottom:25px" value="true"> Remember me
+                    </label>
+                </div>
+                <p class="forgot"><a href="#" onclick="alert('If you forgot your password, please sign up a new account again!')">Forgot Password?</a></p>
+                <div>
+                    <a type="submit" class="normal_button red_button" id="login_btn">Login</a>
+                </div>
+            </form>
+
+        </div>
+        <div class="col col3">
+        </div>
+    </div>
+</div>
+
+<div class="contrary">
+    <div class="container">
+        <div class="col col1">
+        </div>
+        <div class="col col2">
+            <hr>
+            <p class="normal-font">Didn't register an account with OrderTable, Inc.?</p>
+            <p class="normal-font"><a href="/signup">Sign up</a></p>
+        </div>
+        <div class="col col3">
+        </div>
+    </div>
+</div>
